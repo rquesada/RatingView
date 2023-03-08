@@ -1,0 +1,2 @@
+# RatingView
+Created with SwiftUI
